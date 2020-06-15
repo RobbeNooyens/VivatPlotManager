@@ -1,0 +1,20 @@
+# Plot:
+# =====
+not_on_plot:
+- '&7[&ePLOT&7] &cWarning: &7You must be on a plot.'
+no_spare_plots:
+- '&7[&ePLOT&7] &cWarning: &7You have no spare plots left for this world.'
+added_plots:
+- "&7[&ePLOT&7] You've added &a%amount% &7plots for &b%player% &7in %world%"
+removed_plots:
+- "&7[&ePLOT&7] You've removed &a%amount% &7plots from &b%player% &7in %world%"
+plotmanager_help:
+- '&8&m-----------------------------------------------------'
+- ' '
+- '&6VivatPlotManager Help:'
+- '&c/plotcount list (name): &eList plotcount'
+- '&c/plotcount <add/remove> <name> <world> <amount>: &eModify'
+- '&c/plothomes (name): &eOpen a menu with all your plots'
+- '&c/plotmanager <plot/settings/help>: &eManager plots'
+- ' '
+- '&8&m-----------------------------------------------------'

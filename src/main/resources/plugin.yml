@@ -1,0 +1,19 @@
+name: VivatPlotManager
+version: '2.0.0'
+description: Manage your plots!
+author: Robnoo02
+main: net.vivatcreative.plotmanager.VivatPlotManager
+softdepend: [PlaceholderAPI, PlotSquared]
+depend: [VivatCore]
+
+commands:
+  plotcount:
+    usage: /<command>
+    description: Main command
+  plothomes:
+    aliases: [plots]
+    usage: /<command>
+    description: Open Gui
+  plotmanager:
+    usage: /<command>
+    description: Manage plots
